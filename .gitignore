@@ -1,0 +1,10 @@
+.vs/
+out/
+*.out
+*.obj
+*.o
+.vscode/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
